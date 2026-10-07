@@ -23,7 +23,7 @@
 
 <br />
 
-<img src="docs/assets/rea-hopper-analysis.png" alt="REA launching its analysis bridge inside Hopper while inspecting a native binary" width="1200" />
+Based on the text provided,ce image editing application that serves as a pure Rust reimplementation Photos
 
 <br />
 
